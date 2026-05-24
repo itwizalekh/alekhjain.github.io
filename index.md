@@ -40,4 +40,10 @@ Status: In progress
 
 I am open to conversations around AI, data engineering, AML technology, product thinking, and practical enterprise AI adoption.
 
+## Explore
+
+- [Projects](projects.md)
+- [Learning Roadmap](learning.md)
+- [Writing](writing.md)
+
 Connect with me on LinkedIn: https://www.linkedin.com/in/alekhjain/
