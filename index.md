@@ -2,6 +2,8 @@
 
 AI | Data Engineering | Large Scale Integrations | Anti-Money Laundering
 
+I help bridge business domains, data platforms, and AI-enabled solutions — with hands-on experience in data engineering, large-scale integrations, and Anti-Money Laundering technology.
+
 I am a techno-functional professional with experience in data engineering, enterprise integrations, and AML domain solutions. I am currently strengthening my AI, cloud, and product-thinking portfolio through hands-on projects, learning notes, and open-source contributions.
 
 ## What I am building
