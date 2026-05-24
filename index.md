@@ -1,46 +1,83 @@
 # Alekh Jain
 
-AI | Data Engineering | Large Scale Integrations | Anti-Money Laundering
+**AI Engineering | Data Engineering | AWS | AML Technology | Product Thinking**
 
-I help bridge business domains, data platforms, and AI-enabled solutions — with hands-on experience in data engineering, large-scale integrations, and Anti-Money Laundering technology.
+I am a techno-functional data and AI professional with 18+ years of experience across data engineering, enterprise integrations, solution consulting, and Anti-Money Laundering technology.
 
-I am a techno-functional professional with experience in data engineering, enterprise integrations, and AML domain solutions. I am currently strengthening my AI, cloud, and product-thinking portfolio through hands-on projects, learning notes, and open-source contributions.
+My current professional direction is to build a strong public portfolio at the intersection of:
 
-## What I am building
-
-Over the next six months, I am building a practical portfolio around:
-
-- AI-assisted data engineering
+- AI-enabled data platforms
+- Cloud-native data engineering on AWS
+- MLOps and applied machine learning
 - AML/KYC/transaction monitoring use cases
-- Cloud-native data platforms
-- LLM and GenAI experiments
-- Product thinking for AI/data platforms
+- Product thinking for enterprise AI and data solutions
 
-## Featured Projects
+## What I am building in public
 
-### 1. AI + Data Engineering Learning Lab
-Hands-on notes, scripts, and mini-projects covering Python, ML, data pipelines, and MLOps.
+Over the next six months, I am using this website to document my transition from experienced techno-functional data professional to hands-on AI/Data Engineering leader.
 
-GitHub: https://github.com/itwizalekh
+This portfolio will include:
 
-### 2. AML Analytics Concepts
-Practical notes and experiments around suspicious transaction patterns, customer risk scoring, and compliance workflows.
+- Practical AI/ML/MLOps labs
+- AWS data engineering notes and architecture patterns
+- AML analytics and compliance technology concepts
+- Product management reflections for AI/data platforms
+- Open-source learning notes, project logs, and case studies
 
-Status: Coming soon
+## Featured portfolio tracks
 
-### 3. Personal Knowledge Portfolio
-A growing collection of learning notes on AI, cloud, product management, and data architecture.
+### 1. AI & MLOps Learning Lab
 
-Status: In progress
+Hands-on experiments covering Python, machine learning, model evaluation, MLOps foundations, and GenAI system patterns.
 
-## Professional Profiles
+Focus areas:
 
-- LinkedIn: https://www.linkedin.com/in/alekhjain/
-- GitHub: https://github.com/itwizalekh
+- Supervised learning foundations
+- ML vs DL vs LLMs
+- RAG as a system pattern
+- Model evaluation and explainability
+- Practical notebooks, scripts, and learning artifacts
 
-## Contact
+### 2. AWS Data Engineering & Architecture
 
-I am open to conversations around AI, data engineering, AML technology, product thinking, and practical enterprise AI adoption.
+A growing collection of study notes, architecture patterns, and implementation ideas around cloud-native data platforms.
+
+Focus areas:
+
+- AWS Data Engineering
+- Redshift, Glue, Athena, S3, Step Functions
+- Streaming and batch pipelines
+- Observability, reliability, and cost-aware design
+- Certification-to-practical-skill translation
+
+### 3. AML Technology & Analytics
+
+Domain-focused notes and project ideas around financial crime compliance and data-driven AML systems.
+
+Focus areas:
+
+- KYC and customer risk scoring
+- Transaction monitoring
+- Suspicious pattern detection
+- Alert triage and explainability
+- Responsible use of AI in compliance workflows
+
+### 4. Product Thinking for AI/Data Platforms
+
+Reflections and practical frameworks from my product management learning journey.
+
+Focus areas:
+
+- Problem discovery
+- User segmentation
+- Platform thinking
+- Metrics and adoption
+- Turning technical systems into business value
+
+## Professional profiles
+
+- [LinkedIn](https://www.linkedin.com/in/alekhjain/)
+- [GitHub](https://github.com/itwizalekh)
 
 ## Explore
 
@@ -48,4 +85,8 @@ I am open to conversations around AI, data engineering, AML technology, product 
 - [Learning Roadmap](learning.md)
 - [Writing](writing.md)
 
-Connect with me on LinkedIn: https://www.linkedin.com/in/alekhjain/
+## Contact
+
+I am open to conversations around AI engineering, data platforms, AML technology, solution architecture, and practical enterprise AI adoption.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/alekhjain/).
